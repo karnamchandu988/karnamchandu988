@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @karnamchandu988
+# 👋 Hi, I’m Karnam Chandra Shekar
 
 - 👀 I’m interested in VLSI Design, Embedded Systems, IoT & FPGA prototyping  
 - 🌱 I’m currently learning Verilog, SystemVerilog, and advanced SoC concepts  
