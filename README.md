@@ -19,5 +19,5 @@
 - "Web-Based Control via Raspberry Pi" — Remote sensor & device management
 
 <!---
-karnamchandu988/karnamchandu988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+karnamchandu988/karnamchandu988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 --->
